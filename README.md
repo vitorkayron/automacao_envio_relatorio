@@ -4,8 +4,9 @@
 
 Objetivo: Construir uma automação para baixar uma planilha de vendas que estava no google drive, após fazer o download teria que calcular o faturamento e quantidade de produtos vendidos naquela planilha e enviar isso por email. Tudo de forma automática.
 
-#### Bibliotecas utilizadas:
+#### Ferramentas utilizadas:
 
+- Python
 - Pandas
 - Time
 - Pyautogui
